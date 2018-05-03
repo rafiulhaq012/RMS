@@ -1,0 +1,10 @@
+c:\users\rafi\source\repos\Train\Train\bin\Debug\Train.exe.config
+c:\users\rafi\source\repos\Train\Train\bin\Debug\Train.exe
+c:\users\rafi\source\repos\Train\Train\bin\Debug\Train.pdb
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.Form1.resources
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.Properties.Resources.resources
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.exe
+c:\users\rafi\source\repos\Train\Train\obj\Debug\Train.pdb
