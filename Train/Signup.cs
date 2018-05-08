@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Train
 {
-    public partial class Form4 : Form
+    public partial class Signup : Form
     {
-        public Form4()
+        public Signup()
         {
             InitializeComponent();
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
