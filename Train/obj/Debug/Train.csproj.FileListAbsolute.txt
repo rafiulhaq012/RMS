@@ -14,9 +14,11 @@ C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.pdb
 C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\bin\Debug\Train.exe
 C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\bin\Debug\Train.pdb
 C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
-C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Form1.resources
-C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Form2.resources
-C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Form3.resources
-C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Form4.resources
 C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Properties.Resources.resources
 C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\bin\Debug\Database\RMS.mdf
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\bin\Debug\Database\RMS_log.ldf
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Home.resources
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Login.resources
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.Signup.resources
+C:\Users\Qaiser Saleem\Source\Repos\RMS\Train\obj\Debug\Train.U_Dash.resources
